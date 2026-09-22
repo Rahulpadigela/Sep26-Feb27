@@ -1,0 +1,4 @@
+git is a version control system
+where we can write and edit the in code in our local
+and we can track the files accros the team or by someother persons in everywhere
+so these or all my thoughts about git meaning of the git in my style
